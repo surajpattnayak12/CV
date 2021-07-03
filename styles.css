@@ -4,9 +4,9 @@ h1{color: #66BFBF}
 h2{color: #66BFBF}
 h4{color: #66BFBF}
 
-hr {    width: 40px;
-        border-style: dotted none none;
-        border-color:rgb(204, 224, 199);
-        
-        border-width: 5px;
+hr {    
+    width: 40px;
+    border-style: dotted none none;
+    border-color:rgb(204, 224, 199);
+    border-width: 5px;
     }
